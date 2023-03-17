@@ -82,11 +82,13 @@
   .left {
     float: left;
     background: black;
+    color:white;
     
   }
 
   body{
     background-color: black;
+    color:white;
   }
   
   /* .right {
@@ -110,5 +112,20 @@
     margin-right: 30px;
   } */
 
+  #Nosotros {
+    color:white;
+  }
+  #Perros {
+    color:white;
+  }
+  #Gatos {
+    color:white;
+  }
+  #Contactos {
+    color:white;
+  }
+  #Inicio {
+    color:white;
+  }
 
 
