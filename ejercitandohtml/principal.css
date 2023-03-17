@@ -48,7 +48,7 @@
     width: 10%;
     height: 1000px;
     float: left;
-    font-color: white;
+    color:white;
     font-size: 30px;
    
     
@@ -59,8 +59,8 @@
     float: center;
     color:white;
     overflow:hidden;
-    height: 1000px;
-    font-size: 30px;
+    height: 2000px;
+    font-size: 25px;
     
   }
   
