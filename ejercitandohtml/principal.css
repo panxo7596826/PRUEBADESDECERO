@@ -18,7 +18,7 @@
     background-color: red;
     color : white;
   }
-
+/* 
   body {
     background-color: black;
   }
@@ -41,7 +41,58 @@
 
   #Contactos {
     color: white;
+  } */
+
+  .seccion1 {
+    border: 1px solid blue;
+    width: 10%;
+    height: 1000px;
+    float: left;
+    font-color: white;
+    font-size: 30px;
+   
+    
   }
+  .seccion2 {
+    border: 1px solid blue;
+    width: 85%;
+    float: center;
+    color:white;
+    overflow:hidden;
+    height: 1000px;
+    font-size: 30px;
+    
+  }
+  
+/*   
+  div {
+    margin: 5px;
+    width: 50px;
+    height: 150px;
+  } */
+
+  .centro {
+    text-align: center;
+  }
+
+  /* .center {
+    float: center;
+  } */
+  
+  .left {
+    float: left;
+    background: black;
+    
+  }
+
+  body{
+    background-color: black;
+  }
+  
+  /* .right {
+    float: right;
+    background: cyan;
+  } */
 
 
   /* #mi-id {
@@ -58,4 +109,6 @@
     margin-left: 30px;
     margin-right: 30px;
   } */
+
+
 
