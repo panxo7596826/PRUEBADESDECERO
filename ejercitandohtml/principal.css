@@ -1,23 +1,42 @@
+#seccion1 {
+  color: white;
+}
 
-  #menu1 {
-    background-color: blue;
-    color : white;
-  }
+#seccion1:hover {
+  color: green;
+}
 
-  #menu2 {
-    background-color: yellow;
-    color : white;
-  }
+#menu1 {
+  background-color: rgb(95, 218, 243);
 
-  #menu3 {
-    background-color: orange;
-    color : white;
-  }
+  margin-top: 0%;
+  margin-bottom: 0%;
+  height: 25%;
+}
 
-  #menu4 {
-    background-color: red;
-    color : white;
-  }
+#menu2 {
+  background-color: yellow;
+
+  margin-top: 0%;
+  margin-bottom: 0%;
+  height: 25%;
+}
+
+#menu3 {
+  background-color: orange;
+
+  margin-top: 0%;
+  margin-bottom: 0%;
+  height: 25%;
+}
+
+#menu4 {
+  background-color: red;
+
+  margin-top: 0%;
+  margin-bottom: 0%;
+  height: 25%;
+}
 /* 
   body {
     background-color: black;
@@ -43,28 +62,26 @@
     color: white;
   } */
 
-  .seccion1 {
-    border: 1px solid blue;
-    width: 10%;
-    height: 1000px;
-    float: left;
-    color:white;
-    font-size: 30px;
-   
-    
-  }
-  .seccion2 {
-    border: 1px solid blue;
-    width: 85%;
-    float: center;
-    color:white;
-    overflow:hidden;
-    height: 2000px;
-    font-size: 25px;
-    
-    
-  }
-  
+.seccion1 {
+  width: 10%;
+  height: 1000px;
+  float: left;
+
+  font-size: 30px;
+}
+.seccion2 {
+  width: 85%;
+  float: center;
+  color: white;
+  overflow: hidden;
+  height: 1000px;
+  font-size: 25px;
+}
+
+a:hover {
+  color: black;
+}
+
 /*   
   div {
     margin: 5px;
@@ -72,33 +89,31 @@
     height: 150px;
   } */
 
-  .centro {
-    text-align: center;
-  }
+.centro {
+  text-align: center;
+}
 
-  /* .center {
+/* .center {
     float: center;
   } */
-  
-  .left {
-    float: left;
-    background: black;
-    color:white;
-    
-  }
 
-  body{
-    background-color: black;
-    color:white;
-  }
-  
-  /* .right {
+.left {
+  float: left;
+  background: black;
+}
+
+body {
+  background-color: black;
+
+  overflow: hidden;
+}
+
+/* .right {
     float: right;
     background: cyan;
   } */
 
-
-  /* #mi-id {
+/* #mi-id {
     margin: 0 20%;
   }
 
@@ -113,20 +128,18 @@
     margin-right: 30px;
   } */
 
-  #Nosotros {
-    color:white;
-  }
-  #Perros {
-    color:white;
-  }
-  #Gatos {
-    color:white;
-  }
-  #Contactos {
-    color:white;
-  }
-  #Inicio {
-    color:white;
-  }
-
-
+#Nosotros {
+  color: white;
+}
+#Perros {
+  color: white;
+}
+#Gatos {
+  color: white;
+}
+#Contactos {
+  color: white;
+}
+#Inicio {
+  color: white;
+}
