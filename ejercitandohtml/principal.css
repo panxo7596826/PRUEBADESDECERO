@@ -1,14 +1,14 @@
-#seccion1 {
+a {
   color: white;
+  text-decoration: none;
 }
 
-#seccion1:hover {
-  color: green;
+a:hover {
+  color:gray;
 }
 
 #menu1 {
   background-color: rgb(95, 218, 243);
-
   margin-top: 0%;
   margin-bottom: 0%;
   height: 25%;
@@ -16,7 +16,6 @@
 
 #menu2 {
   background-color: yellow;
-
   margin-top: 0%;
   margin-bottom: 0%;
   height: 25%;
@@ -24,7 +23,6 @@
 
 #menu3 {
   background-color: orange;
-
   margin-top: 0%;
   margin-bottom: 0%;
   height: 25%;
@@ -32,41 +30,15 @@
 
 #menu4 {
   background-color: red;
-
   margin-top: 0%;
   margin-bottom: 0%;
   height: 25%;
 }
-/* 
-  body {
-    background-color: black;
-  }
-
-  #Inicio {
-    color: white;
-  }
-
-  #Nosotros {
-    color: white;
-  }
-
-  #Perros {
-    color: white;
-  }
-
-  #Gatos {
-    color: white;
-  }
-
-  #Contactos {
-    color: white;
-  } */
 
 .seccion1 {
   width: 10%;
   height: 1000px;
   float: left;
-
   font-size: 30px;
 }
 .seccion2 {
@@ -78,24 +50,9 @@
   font-size: 25px;
 }
 
-a:hover {
-  color: black;
-}
-
-/*   
-  div {
-    margin: 5px;
-    width: 50px;
-    height: 150px;
-  } */
-
 .centro {
   text-align: center;
 }
-
-/* .center {
-    float: center;
-  } */
 
 .left {
   float: left;
@@ -104,42 +61,7 @@ a:hover {
 
 body {
   background-color: black;
-
   overflow: hidden;
 }
 
-/* .right {
-    float: right;
-    background: cyan;
-  } */
 
-/* #mi-id {
-    margin: 0 20%;
-  }
-
-  #mi-id {
-    margin: 20px 30px;
-  }
-  
-  #mi-id {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 30px;
-    margin-right: 30px;
-  } */
-
-#Nosotros {
-  color: white;
-}
-#Perros {
-  color: white;
-}
-#Gatos {
-  color: white;
-}
-#Contactos {
-  color: white;
-}
-#Inicio {
-  color: white;
-}
