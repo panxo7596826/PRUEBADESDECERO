@@ -59,9 +59,18 @@ a:hover {
   background: black;
 }
 
-body {
+/* body {
   background-color: black;
   overflow: hidden;
+} */
+
+#body{
+  margin-top:25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 25px;
 }
+
+
 
 
